@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=VEP
+Exec=/home/charly/VEP/VEP.py
+Path=/home/charly/VEP
+Icon=applications-multimedia-symbolic
+Terminal=false
+Type=Application
+NoDisplay=false
+StartupNotify=true
